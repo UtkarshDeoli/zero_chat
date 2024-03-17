@@ -23,14 +23,17 @@ We take ZERO data
     `flutter run`
 
 - Or just copy this to your terminal:
-  ```
+```bash
   git clone https://github.com/UtkarshDeoli/zero_chat.git
   cd zero_chat
   flutter pub get
   flutter create .
   flutter run
-``` 
-A few resources to get you started if this is your first Flutter project:
+```
+
+
+
+# A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
