@@ -56,3 +56,4 @@ app.*.map.json
 /macos
 /web
 /windows
+backend/node_modules
