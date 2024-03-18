@@ -15,7 +15,8 @@ class ZeroChat extends StatelessWidget {
       title: 'Zero Chat',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-            seedColor: const Color.fromARGB(255, 17, 50, 106)),
+          seedColor: const Color.fromARGB(255, 17, 50, 106),
+        ),
         useMaterial3: true,
       ),
       home: const SignUpScreen(),
